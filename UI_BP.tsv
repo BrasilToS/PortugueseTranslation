@@ -90,7 +90,7 @@ UI_20150317_000089	{@sti7}{s14} Personagem {/}
 UI_20150317_000090	{@sti8}{s14} Classe {/}
 UI_20150317_000091	{@st44}Chat{/}
 UI_20150317_000092	Para. WWWWWWWW e 1 outro.
-UI_20150317_000093	{memo X}Geral: /s chat {nl} Gritos: /y chat {nl} Grupo: /p chat{nl} Msg.Privada: /w Nome do Personagem, Chat
+UI_20150317_000093	{memo X}Geral: /s chat {nl} Gritar: /y chat {nl} Grupo: /p chat{nl} Msg.Privada: /w Nome do Personagem, Chat
 UI_20150317_000094	{@st41}Chat Normal{/}
 UI_20150317_000095	{@59}Sair{/}
 UI_20150317_000096	{@59}Convidar{/}

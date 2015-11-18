@@ -18,7 +18,7 @@ UI_20150317_000017	{@St59}Fechar Leilão{/}
 UI_20150317_000018	{@St41b}Itens vendidos : %s ea, Itens não vendidos : %s ea{/}
 UI_20150317_000019	{@St43}{s22}Leilão de itens{/}
 UI_20150317_000020	{@st59}Fechar informações de quest{/}
-UI_20150317_000021	Abe dias restantes
+UI_20150317_000021	Dias restantes
 UI_20150317_000022	{@St41b}Tempo restante
 UI_20150317_000023	3 horas 16 minutos
 UI_20150317_000024	{@St41b}Preço inicial
@@ -77,8 +77,8 @@ UI_20150317_000076	{@st64}Use as teclas direcionais para escolher o local!
 UI_20150317_000077	{@st43}Informações avançadas {/}
 UI_20150317_000078	{@st43}Selecionar Classe
 UI_20150317_000079	Psychokinesist
-UI_20150317_000080	{@st42}%s círculo {/}
-UI_20150317_000081	Quantidade de círculos
+UI_20150317_000080	{@st42}%s Ciclo {/}
+UI_20150317_000081	Quantidade de Ciclos
 UI_20150317_000082	Exibe uma breve descrição da classe.
 UI_20150317_000083	{@st41b}Ataque {@sti7}%s{/}
 UI_20150317_000084	{@st41b}Suporte {@sti7}%s{/}
@@ -90,7 +90,7 @@ UI_20150317_000089	{@sti7}{s14} Personagem {/}
 UI_20150317_000090	{@sti8}{s14} Classe {/}
 UI_20150317_000091	{@st44}Chat{/}
 UI_20150317_000092	Para. WWWWWWWW e 1 outro.
-UI_20150317_000093	Geral: / s {nl} Call details: / y contents {nl} Party: / p {nl} whisper contents: / w Carrick name Contents
+UI_20150317_000093	{memo X}Geral: /s chat {nl} Gritos: /y chat {nl} Grupo: /p chat{nl} Msg.Privada: /w Nome do Personagem, Chat
 UI_20150317_000094	{@st41}Chat Normal{/}
 UI_20150317_000095	{@59}Sair{/}
 UI_20150317_000096	{@59}Convidar{/}

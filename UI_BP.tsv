@@ -198,156 +198,156 @@ UI_20150317_000197
 UI_20150317_000198
 UI_20150317_000199
 UI_20150317_000200
-UI_20150317_000201
-UI_20150317_000202
-UI_20150317_000203
-UI_20150317_000204
-UI_20150317_000205
-UI_20150317_000206
-UI_20150317_000207
-UI_20150317_000208
-UI_20150317_000209
-UI_20150317_000210
-UI_20150317_000211
-UI_20150317_000212
-UI_20150317_000213
-UI_20150317_000214
-UI_20150317_000215
-UI_20150317_000216
-UI_20150317_000217
-UI_20150317_000218
-UI_20150317_000219
-UI_20150317_000220
-UI_20150317_000221
-UI_20150317_000222
-UI_20150317_000223
-UI_20150317_000224
-UI_20150317_000225
-UI_20150317_000226
-UI_20150317_000227
-UI_20150317_000228
-UI_20150317_000229
-UI_20150317_000230
-UI_20150317_000231
-UI_20150317_000232
-UI_20150317_000233
-UI_20150317_000234
-UI_20150317_000235
-UI_20150317_000236
-UI_20150317_000237
-UI_20150317_000238
-UI_20150317_000239
-UI_20150317_000240
-UI_20150317_000241
-UI_20150317_000242
-UI_20150317_000243
-UI_20150317_000244
-UI_20150317_000245
-UI_20150317_000246
-UI_20150317_000247
-UI_20150317_000248
-UI_20150317_000249
-UI_20150317_000250
-UI_20150317_000251
-UI_20150317_000252
-UI_20150317_000253
-UI_20150317_000254
-UI_20150317_000255
-UI_20150317_000256
-UI_20150317_000257
-UI_20150317_000258
-UI_20150317_000259
-UI_20150317_000260
-UI_20150317_000261
-UI_20150317_000262
-UI_20150317_000263
-UI_20150317_000264
-UI_20150317_000265
-UI_20150317_000266
-UI_20150317_000267
-UI_20150317_000268
-UI_20150317_000269
-UI_20150317_000270
-UI_20150317_000271
-UI_20150317_000272
-UI_20150317_000273
-UI_20150317_000274
-UI_20150317_000275
-UI_20150317_000276
-UI_20150317_000277
-UI_20150317_000278
-UI_20150317_000279
-UI_20150317_000280
-UI_20150317_000281
-UI_20150317_000282
-UI_20150317_000283
-UI_20150317_000284
-UI_20150317_000285
-UI_20150317_000286
-UI_20150317_000287
-UI_20150317_000288
-UI_20150317_000289
-UI_20150317_000290
-UI_20150317_000291
-UI_20150317_000292
-UI_20150317_000293
-UI_20150317_000294
-UI_20150317_000295
-UI_20150317_000296
-UI_20150317_000297
-UI_20150317_000298
-UI_20150317_000299
-UI_20150317_000300
-UI_20150317_000301
-UI_20150317_000302
-UI_20150317_000303
-UI_20150317_000304
-UI_20150317_000305
-UI_20150317_000306
-UI_20150317_000307
-UI_20150317_000308
-UI_20150317_000309
-UI_20150317_000310
-UI_20150317_000311
-UI_20150317_000312
-UI_20150317_000313
-UI_20150317_000314
-UI_20150317_000315
-UI_20150317_000316
-UI_20150317_000317
-UI_20150317_000318
-UI_20150317_000319
-UI_20150317_000320
-UI_20150317_000321
-UI_20150317_000322
-UI_20150317_000323
-UI_20150317_000324
-UI_20150317_000325
-UI_20150317_000326
-UI_20150317_000327
-UI_20150317_000328
-UI_20150317_000329
-UI_20150317_000330
-UI_20150317_000331
-UI_20150317_000332
-UI_20150317_000333
-UI_20150317_000334
-UI_20150317_000335
-UI_20150317_000336
-UI_20150317_000337
-UI_20150317_000338
-UI_20150317_000339
-UI_20150317_000340
-UI_20150317_000341
-UI_20150317_000342
-UI_20150317_000343
-UI_20150317_000344
-UI_20150317_000345
-UI_20150317_000346
-UI_20150317_000347
-UI_20150317_000348
-UI_20150317_000349
-UI_20150317_000350
+UI_20150317_000201	Não exibir eventos de campo.
+UI_20150317_000202	Participar do jogo
+UI_20150317_000203	Iniciar jogo com outros jogadores.
+UI_20150317_000204	Não participar do jogo.
+UI_20150317_000205	Modelos de Spray
+UI_20150317_000206	{@st49}Selecionar{/}
+UI_20150317_000207	{@st49}Cancelar{/}
+UI_20150317_000208	{@st49}Deletar{/}
+UI_20150317_000209	Insira nome do arquivo para salvar.
+UI_20150317_000210	{@st43}Amigos
+UI_20150317_000211	{@st59}Fechar lista de amigos{/}
+UI_20150317_000212	{@st59b} Amigos {nl} {@st59s} - Faça amizade com outros jogadores {nl} - Confira o status de seus amigos na aba Lista {nl} - Confira convites, recuse ou bloqueie na aba Gerenciar {/}
+UI_20150317_000213	{@st41b}Mostrar somente online{/}
+UI_20150317_000214	{@st41b}Lista
+UI_20150317_000215	{@st41b}Gerenciar
+UI_20150317_000216	{@st41b}Convidar amigo
+UI_20150317_000217	{@st41b}Bloquear
+UI_20150317_000218	{@st59}Pesquisar{/}
+UI_20150317_000219	{@st44}Guilda{/}
+UI_20150317_000220	Guilda
+UI_20150317_000221	Lista
+UI_20150317_000222	Notícias
+UI_20150317_000223	Missão de Guilda
+UI_20150317_000224	Memberos Online
+UI_20150317_000225	{@st44}Criar Guilda{/}
+UI_20150317_000226	{@st42}Criar{/}
+UI_20150317_000227	{@st42}Fechar{/}
+UI_20150317_000228	{@st42}TODOS{/}
+UI_20150317_000229	{@st42}Ranking de hoje{/}
+UI_20150317_000230	{@st42}Ranking semanal{/}
+UI_20150317_000231	{@st56} rank {/}
+UI_20150317_000232	{@st56}Pontos{/}
+UI_20150317_000233	{@st56}Classe{/}
+UI_20150317_000234	{@st56} Nome {/}
+UI_20150317_000235	Página anterior
+UI_20150317_000236	Próxima página
+UI_20150317_000237	{@st42}Pesquisar ID{/}
+UI_20150317_000238	Insira a ID para pesquisar
+UI_20150317_000239	Fechar hall da fama
+UI_20150317_000240	Insira a ID para pesquisar
+UI_20150317_000241	{@st59} Estamina {/}
+UI_20150317_000242	{@st43}Lista de ajuda{/}
+UI_20150317_000243	{@st59}Fechar lista de ajuda {/}
+UI_20150317_000244	{@st59b} Lista de ajuda{nl} {@st59s}- Ler os tópicos novamente {nl}  - Selecione um tópico para exibir detalhes {/}
+UI_20150317_000245	{@st43}{s22}Ajuda{/}
+UI_20150317_000246	{@st47_b}{b}Tópicos de ajuda{/}
+UI_20150317_000247	{@st42b}Conteúdos de ajuda simples{/}
+UI_20150317_000248	{@st59}Ver detalhes{/}
+UI_20150317_000249	Por favor insira a quantidade
+UI_20150317_000250	{@st59}Insira o conteúdo{/}
+UI_20150317_000251	{@st41b}OK
+UI_20150317_000252	{@st59}Confirmar {/}
+UI_20150317_000253	{@st41b}Fechar
+UI_20150317_000254	{@st59}Cancelar {/}
+UI_20150317_000255	{@st43}Teleportar{/}
+UI_20150317_000256	{@st59}Fechar janela de teleporte{/}
+UI_20150317_000257	Teleportar {@st59b} {nl} {@st59s} - Sistema que pode teleportar o usuário para outras regiões {nl} - É necessário que ao menos duas estátuas estejam ativas para usar essa função {nl} {/}
+UI_20150317_000258	{@st41}Localização atual : %s{/}
+UI_20150317_000259	{@st43}{s22}Teleportar{/}
+UI_20150317_000260	{@st41b}Você deseja se teleportar para esse local?{/}
+UI_20150317_000261	What about Saul ray
+UI_20150317_000262	Moedas utilizadas : 0
+UI_20150317_000263	Introdução
+UI_20150317_000264	{@st43}Inventário{/}
+UI_20150317_000265	{@st59}Fechar inventário{/}
+UI_20150317_000266	Equipamentos {@st59b} {nl} {@st59s}-Cabelo/Roupas: equipe para mudar o visual do personagem {nl} -Armas: Pode usar armas de uma ou duas mãos {nl} (sub-arma/escudo podem ser utilizados com armas de uma mão) {nl} -Armadura: Tronco, Pernas, Luvas, Sapatos {nl} -Acessórios: Pode usar 1 colar e 2 braceletes {nl} {/}
+UI_20150317_000267	{@st59}Acessório da cabeça 1{/}
+UI_20150317_000268	{@st59}Acessório da cabeça 2 {/}
+UI_20150317_000269	{@st59}Colar {/}
+UI_20150317_000270	{@st59}Roupa{/}
+UI_20150317_000271	{@st59}Tronco {/}
+UI_20150317_000272	{@st59}Luvas {/}
+UI_20150317_000273	{@st59}Pernas{/}
+UI_20150317_000274	{@st59}Sapatos {/}
+UI_20150317_000275	{@st59}Mão esquerda {/}
+UI_20150317_000276	{@st59}Mão direita {/}
+UI_20150317_000277	{@st59}Bracelete 1 {/}
+UI_20150317_000278	{@st59}Bracelete 2 {/}
+UI_20150317_000279	{@st59}Braçadeira{/}
+UI_20150317_000280	{@st59}Procurar com o nome inserido {/}
+UI_20150317_000281	Peso
+UI_20150317_000282	
+UI_20150317_000283	{@st59}Fechar UI de reparação de itens{/}
+UI_20150317_000284	{@st42}Disponível para Buff
+UI_20150317_000285	{@st42}Consumir{/}
+UI_20150317_000286	{@st42}Correr
+UI_20150317_000287	{@st42}Selecionar Item{/}
+UI_20150317_000288	Anel 1 {@st59} {/}
+UI_20150317_000289	{@st43}Criação de item{/}
+UI_20150317_000290	{@st42b} Ver apenas aqueles com materiais suficientes {/}
+UI_20150317_000291	{@st59}Fechar janela de criação de item {/}
+UI_20150317_000292	{@st43}{s22}Dividir item
+UI_20150317_000293	{@st59}Insira a quantidade{/}
+UI_20150317_000294	Barra de HP do monstro
+UI_20150317_000295	{@st44}Conjunto de item adquirido{/}
+UI_20150317_000296	Teclado Guerreiro
+UI_20150317_000297	Kiel
+UI_20150317_000298	99 minutos 99 segundos
+UI_20150317_000299	38000 pontos
+UI_20150317_000300	Poção de Velocidade aprimorada
+UI_20150317_000301	{@st41}OK {/}
+UI_20150317_000302	{@st59b} Registro de Aventuras {nl}{@st59s}- O seu progresso no jogo é registrado no Registro de Aventuras {nl} - Consiga informações com itens, monstros, forjando, explorando o mapa e com progresso no jogo {nl}    Índice de Aventuras : Conjunto de todos os índices {nl}    Personagem : 5 pontos por level e level de classe {nl}    Item : Equipamento: Level X 10 pontos, Livro : 10 pontos, Outros : 1 ponto {nl}    Monstros : 10 pontos por monstro (Chefes: 50 pontos) {nl}    Mapa : 1 ponto a cada 10% descoberto {nl}    Quests: 1 ponto por quest {nl}    Conqusitas: Varia por conquista {nl}    Criação : 10 pontos {nl}    Coleção : Deck 5 pontos, 45 points quando completo {nl} - Receba recompensas do NPC na cidade dependendo do seu Índice de Aventuras {/}
+UI_20150317_000303	{@sti7}{s22}{ds}Conquistas{/}
+UI_20150317_000304	{@st42b}{#22FF22} Bom 10% / %s Points{/}
+UI_20150317_000305	{@st42b} Mediano / %s Points {/}
+UI_20150317_000306	1º / %s Points
+UI_20150317_000307	Rank %s
+UI_20150317_000308	%s Pontos
+UI_20150317_000309	Profissão
+UI_20150317_000310	Time
+UI_20150317_000311	{@st59}Fechar registro de aventuras{/}
+UI_20150317_000312	{@st43}Rankings do registro de aventuras{/}
+UI_20150317_000313	{@st43}{s22}Rank   
+UI_20150317_000314	{@st43}{s22}Nome
+UI_20150317_000315	{@st43}{s22}Pontuação
+UI_20150317_000316	{@st41}Detalhes{/}
+UI_20150317_000317	{@st43}Começar a criar{/}
+UI_20150317_000318	{@st59}Começar a fabricar item.{/}
+UI_20150317_000319	{@st44}Teclado{/}
+UI_20150317_000320	{@st42}Tempo Limite
+UI_20150317_000321	{@st56}Kill{/}
+UI_20150317_000322	{@st56}Overkill{/}
+UI_20150317_000323	{@st56}Atingido{/}
+UI_20150317_000324	{@st56}Morto{/}
+UI_20150317_000325	Poder Mágico
+UI_20150317_000326	Defesa
+UI_20150317_000327	Reistência Mágica
+UI_20150317_000328	Taxa de crítico
+UI_20150317_000329	{@st43}Encaixes{/}
+UI_20150317_000330	{@st59}Fehcar o gerenciador de encaixes{/}
+UI_20150317_000331	Por favor insira seus itens
+UI_20150317_000332	Potencial
+UI_20150317_000333	Custo de encaixe extra : {#ff9933}%s{/}{nl}Custo de extração de gema : {#ff9933}%s{/}
+UI_20150317_000334	{@st41b}Adicionar encaixe
+UI_20150317_000335	{@st41b}Extrair gema
+UI_20150317_000336	{@st41}Criar{/}
+UI_20150317_000337	{@st41}%s %s ea
+UI_20150317_000338	Mapa da área
+UI_20150317_000339	Área Explorada : 95.5%
+UI_20150317_000340	{@st45tw}Área Explorada %s% {/}
+UI_20150317_000341	{@st59}Fechar o Mapa (M){/}
+UI_20150317_000342	{@st41}Mapa{/}
+UI_20150317_000343	Shift(clear), Ctrl(mid fill)
+UI_20150317_000344	{ol}Título
+UI_20150317_000345	{@st41}Adicionar{/}
+UI_20150317_000346	{@st41}Deletar{/}
+UI_20150317_000347	{@st41}Salvar{/}
+UI_20150317_000348	{@st41}Auto{/}
+UI_20150317_000349	{@st41}Resetar{/}
+UI_20150317_000350	{@st59}Definir quantidade.{/}
 UI_20150317_000351
 UI_20150317_000352
 UI_20150317_000353

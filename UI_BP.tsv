@@ -1,4 +1,4 @@
-UI_20150317_000001	{@st41b}Adquirir Atributos{nl}ddos mestres de cada classe.{/}
+UI_20150317_000001	{@st41b}Adquirir Atributos{nl}dos mestres de cada classe.{/}
 UI_20150317_000002	{@st43}Lista {/}
 UI_20150317_000003	{@st59}Fechar {/}
 UI_20150317_000004	{@st43}Adquirir Atributos{/}
@@ -6,9 +6,9 @@ UI_20150317_000005	{@st59}Fechar janela de atributos{/}
 UI_20150317_000006	{@st41b}Prata{/}
 UI_20150317_000007	Minhas Conquistas
 UI_20150317_000008	Ranking do Servidor
-UI_20150317_000009	{@st59}Houve um acontecimento inesperado.{/}
+UI_20150317_000009	{@st59}Um evento inesperado está disponível.{/}
 UI_20150317_000010	{@st59}Há uma nova mensagem de ajuda{/}
-UI_20150317_000011	{@st41}Qual tipo de flecha você gostaria de criar?{/}
+UI_20150317_000011	{@st41}Tem certeza que quer criar este tipo de Flecha?{/}
 UI_20150317_000012	{@st41b}Uma vez que{/}
 UI_20150317_000013	{@st41b}Todos{/}
 UI_20150317_000014	{@St41b}Pausar{/}
@@ -24,7 +24,7 @@ UI_20150317_000023	3 horas 16 minutos
 UI_20150317_000024	{@St41b}Preço inicial
 UI_20150317_000025	{@St41b}Ofertas
 UI_20150317_000026	{@St41b}Preço atual
-UI_20150317_000027	{@St41b}Preço ofertado
+UI_20150317_000027	{@St41b}Preço oferecido
 UI_20150317_000028	{@St41b}Oferta mínima de {@st57}%s{@st41b}Pratas{/}
 UI_20150317_000029	{@St41b}Oferecer{/}
 UI_20150317_000030	{@St43b}Compre agora!{nl}{img icon_item_silver 20 20}{@st57}%s{/}
@@ -40,10 +40,10 @@ UI_20150317_000039	{@St49}Deletar
 UI_20150317_000040	{@St44}Salvar{/}
 UI_20150317_000041	{@St44}Cancelar{/}
 UI_20150317_000042	{@St43}{s22}Loja de cabelos{/}
-UI_20150317_000043	{@st59}Cabelo anterior{/}
-UI_20150317_000044	{@St59}Próximo cabelo{/}
+UI_20150317_000043	{@st59}Penteado Anterior{/}
+UI_20150317_000044	{@St59}Próximo Penteado{/}
 UI_20150317_000045	{@st41b} mudar {s18} (100 moedas necessárias) {/}
-UI_20150317_000046	{@St59}Mudar para o cabelo selecionado.{/}
+UI_20150317_000046	{@St59}Usar penteado selecionado.{/}
 UI_20150317_000047	{@St41}Cancelar
 UI_20150317_000048	{@st43}Mercado Negro{/}
 UI_20150317_000049	Nome do Livro
@@ -1059,7 +1059,7 @@ UI_20150317_001058	{@St41}DEF{/}
 UI_20150317_001059	{@st41}AUX{/}
 UI_20150317_001060	{@St41}Dificuldade{/}
 UI_20150317_001061	{@St41}Cabelo
-UI_20150317_001062	{@St41}Ratação
+UI_20150317_001062	{@St41}Rotação
 UI_20150317_001063	{@St43}Criar Personagem
 UI_20150317_001064	{@St59}Criar um personagem usando o nome acima{/}
 UI_20150317_001065	{@St41b}Escolha outro personagem
@@ -1232,26 +1232,26 @@ UI_20150317_001231	{@St41b}Receber itens{/}
 UI_20150317_001232	{@st42b} Preço dos Lances {img icon_item_silver 20 20}{@st57}%s{/}
 UI_20150317_001233	{@Sti7}Retornar
 UI_20150317_001234	{@St59}Cabeça{/}
-UI_20150317_001235	{@St59}Bracelhete Esquerdo{/}
-UI_20150317_001236	{@St59}Bracelhete Direito{/}
-UI_20150317_001237	{@St59}Costumes{/}
+UI_20150317_001235	{@St59}Bracelete Esquerdo{/}
+UI_20150317_001236	{@St59}Bracelete Direito{/}
+UI_20150317_001237	{@St59}Fantasias{/}
 UI_20150317_001238	{@st59}Anel2{/}
 UI_20150317_001239	Nome do Pet
 UI_20150317_001240	Pacote Chandler
-UI_20150317_001241	Floresta Lets ..etc..
+UI_20150317_001241	Floresta oeste etc...
 UI_20150317_001242	Consumir Moedas
 UI_20150317_001243	Nome de categoria
 UI_20150317_001244	Isto é uma ajuda
 UI_20150317_001245	{@Sti7}%s Pontos{/}
 UI_20150317_001246	{@st41b}%s Pontos
-UI_20150317_001247	Limpar quest 25
+UI_20150317_001247	Concluir quest 25
 UI_20150317_001248	[Sub]Floresta de espinho
 UI_20150317_001249	{@St42}Item equipado
 UI_20150317_001250	{@St44}Rank de informaçãoes de classe %s{/}
 UI_20150317_001251	Informação de progresso
 UI_20150317_001252	Coração
 UI_20150317_001253	N/A
-UI_20150317_001254	%s Levle
+UI_20150317_001254	%s Level
 UI_20150317_001255	Memo : {#666666}%s
 UI_20150317_001256	Ayase
 UI_20150317_001257	Relação com o %s
@@ -1330,7 +1330,7 @@ UI_20150323_001329	Preço por itens
 UI_20150323_001330	{@st41b}Lista de Materiais
 UI_20150323_001331	{@st43}Polir Gema{/}
 UI_20150323_001332	{@st59}Fechar UI{/}
-UI_20150323_001333	{@st41b}Repairar{/}
+UI_20150323_001333	{@st41b}Reparar{/}
 UI_20150323_001334	{@st41b}Log{/}
 UI_20150323_001335	Preço
 UI_20150323_001336	{@st59}Coloque a gema aqui{/}
@@ -1393,7 +1393,7 @@ UI_20150323_001392	{@st45ty}Loja de Compras
 UI_20150323_001393	{@st41b}Mudar
 UI_20150323_001394	{@st59}Alterar cumprimentos do personagem{/}
 UI_20150323_001395	{@st59}Colocar Loja de compras{/}
-UI_20150323_001396	Purchast Qty. : %s{/}
+UI_20150323_001396	Qty Adquirida. : %s{/}
 UI_20150323_001397	Procurar itens para comprar
 UI_20150323_001398	Qtd.
 UI_20150323_001399	Preço/ea
@@ -1410,7 +1410,7 @@ UI_20150401_001409	{@st43}Dica de Classe{/}
 UI_20150401_001410	Dica de Classe
 UI_20150401_001411	{@st42}{#ffff00}Travar Alvo {/}
 UI_20150401_001412	{@st41}Desfazer Tabela
-UI_20150401_001413	{@st43}Tincturing{/}
+UI_20150401_001413	{@st43}Tingindo{/}
 UI_20150401_001414	Atalho do Joystick
 UI_20150401_001415	{@st42}{#ffff00}Modo de Teclado{/}
 UI_20150401_001416	{@st43}Abrir caixa de Oferta
@@ -1432,7 +1432,7 @@ UI_20150401_001431	{@st43}Atual lista de usuários na Zona{/}
 UI_20150401_001432	{@st59}Fechar a Lista de UI do GM{/}
 UI_20150401_001433	{@st41}Descrição do Grupo :
 UI_20150401_001434	{s20}Quantidade de Veneno {s28}{b}{#ff6600}%s
-UI_20150401_001435	Materials para Veneno
+UI_20150401_001435	Materiais para Veneno
 UI_20150401_001436	{@st41b}Selecionar tudo{/}
 UI_20150401_001437	{@st59}Descelecionar tudo quando clicar denovo{/}
 UI_20150401_001438	{@st41b}Criar{/}
@@ -1562,7 +1562,7 @@ UI_20150714_001561	{@st66b}Gosto!
 UI_20150714_001562	Eu gosto deste personagem {#ffff00}%s{/}
 UI_20150714_001563	{@st41b}Desativar contador de distribuição de comida
 UI_20150714_001564	{@st42}Habilidades da minha invocação
-UI_20150714_001565	{@st42}Stato
+UI_20150714_001565	{@st42}Status
 UI_20150714_001566	{@st42}Localização Atual : %s{/}
 UI_20150714_001567	{@st59b}Equipamentos {nl}{@st59s} - Cabelo/Costume : Alterar aparencia do personagem {nl} - Armas : Armas de uma ou duas mãos {nl}    (Sub-Armas/Escudos pode ser usados em uma das mãos) {nl} - Equipamentos : Topo, Calças, Luvas, Sapatos {nl} - Accessorios : 1 Colar e 2 Bracelhetes {nl} {/}
 UI_20150714_001568	{@st43}Abrir %s Loja {/}
@@ -1691,7 +1691,7 @@ UI_20150714_001690	%s ea
 UI_20150714_001691	{@41b}Condições
 UI_20150714_001692	{@st41}Deletar
 UI_20150714_001693	{@st41}Atualizar
-UI_20150717_001694	Like este jogador {#ffff00}%s{/}
+UI_20150717_001694	Curta este jogador {#ffff00}%s{/}
 UI_20150717_001695	{@st41b}{s56}Este jogo é {#0066FF}
 UI_20150717_001696	Classificado T.
 UI_20150717_001697	{s40} {nl}Jogar o jogo por muitas horas pode impactar negativamente na sua saúde.{/}e
@@ -1795,7 +1795,7 @@ UI_20150918_001794	Amizade
 UI_20150918_001795	{@st41b}Obtido material para criar o item!
 UI_20150918_001796	{@st66b}{s20}Você se tornou {/}{s20}{#cc6600}{ol}Incapaz de combater {/}{@st66b}{s20}!{/}
 UI_20150918_001797	{@st66b}Reiniciar a partir do ponto de ressusitação mais próximo{/}
-UI_20150918_001798	{@st66b}Reiniciar aqui (requires %s Ouro){/}
+UI_20150918_001798	{@st66b}Reiniciar aqui (requer %s Ouro){/}
 UI_20150918_001799	{@st66b}Retornar ao campo{/}
 UI_20150918_001800	{@st66b}Abandonar a quest e tentar novamente{/}
 UI_20150918_001801	{@st66b}Tentar denovo{/}
@@ -1803,14 +1803,14 @@ UI_20150918_001802	{@st66b}Itens vendidos{/}
 UI_20150918_001803	{@st53}Pontos do rank:				
 UI_20150918_001804	Total inegociável:			
 UI_20150918_001805	{@st42b}Checar Dialogo{/}				
-UI_20150918_001806	{@st66b}Dar comida oas de fora do grupo{/}			
+UI_20150918_001806	{@st66b}Dar comida aos de fora do grupo{/}			
 UI_20150918_001807	{@st41b}Alterar título		
 UI_20150918_001808	{@sti9}Meu rank			
 UI_20150918_001809	{@sti9}Rank de mortes		
 UI_20150918_001810	{@sti9}Rank de dano		
 UI_20151001_001811	{@st43}Configurar atalhos{/}		
-UI_20151001_001812	{@st45tw2}Categoria	{@st45tw2}카테고리				
-UI_20151001_001813	Ação	액션				
+UI_20151001_001812	{@st45tw2}Categoria	{@st45tw2}				
+UI_20151001_001813	Ação				
 UI_20151001_001814	Restaurar padrões		
 UI_20151016_001815	{@st59}O item selecionado será bloqueado{/}
 UI_20151016_001816	{@st59}Você pode mudar o tema da sua casa e checar previamente
@@ -1823,7 +1823,7 @@ UI_20151016_001822	Nome da Guilda e Descrição
 UI_20151016_001823	Nome do time
 UI_20151016_001824	Titlo
 UI_20151016_001825	Notícia
-UI_20151022_001826	{@st41}Fica do Servidor
+UI_20151022_001826	{@st41}Fila do Servidor
 UI_20151022_001827	{#000000}{s18}O servidor está cheio. Entrando na fila.
 UI_20151022_001828	{#000000}{s18}Posição atual : %s
 UI_20151022_001829	{@st66b}Efeitos dos outros personagens

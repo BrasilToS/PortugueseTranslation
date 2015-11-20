@@ -140,10 +140,10 @@ UI_20150317_000139	{@st49}{a SAVE_EDIT_SPRAY}Salvar{/}{/}
 UI_20150317_000140	{@st49}{a LOAD_EDIT_SPRAY}Importar{/}{/}
 UI_20150317_000141	{@st49}Fechar{/}
 UI_20150317_000142	{@st43} Adotar mascote
-UI_20150317_000143	{@st59} Insira o nome do seu novo Mascote {/}
+UI_20150317_000143	{@st59} Insira o nome do seu novo mascote {/}
 UI_20150317_000144	{@st41b}Nome{/}
 UI_20150317_000145	{@st41b}Preço %s{/}
-UI_20150317_000146	{@st59} Fechar janela de pré venda do mascote Moth {/}
+UI_20150317_000146	{@st59} Fechar janela de adoção de mascote {/}
 UI_20150317_000147	{@st41b}Adotar
 UI_20150317_000148	{@st59}Confirmar adoção {/}
 UI_20150317_000149	{@st43}Loja de Mascotes
@@ -155,7 +155,7 @@ UI_20150317_000154	{@st41b}Gravar
 UI_20150317_000155	Nome do Time
 UI_20150317_000156	Nome do Personagem
 UI_20150317_000157	{#Ffff00}%s{/}Rank %s {#ffff00}%s{/}Level
-UI_20150317_000158	Fighter
+UI_20150317_000158	Lutador
 UI_20150317_000159	Aventura {#ffff00}%s{/} (Rank{#ffff00}%s{/}/%s)
 UI_20150317_000160	Aventura {#ffff00}%s{/} ({#ffff00}Sem Ranking{/})
 UI_20150317_000161	Conquistas {#ffff00}%s{/}ea
@@ -167,7 +167,7 @@ UI_20150317_000166	{@st49}Diálogo{/}
 UI_20150317_000167	{@st49}Combate{/}
 UI_20150317_000168	{@st49}Item{/}
 UI_20150317_000169	{@st43}Créditos{/}
-UI_20150317_000170	{@st43}Alvo fixado {/}
+UI_20150317_000170	{memo X}{@st43}Configurações de Alvo Fixo {/}
 UI_20150317_000171	Nome do NPC
 UI_20150317_000172	Comparar
 UI_20150317_000173	Ilustração

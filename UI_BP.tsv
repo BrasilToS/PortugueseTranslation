@@ -228,10 +228,10 @@ UI_20150317_000227	{@st42}Fechar{/}
 UI_20150317_000228	{@st42}TODOS{/}
 UI_20150317_000229	{@st42}Ranking de hoje{/}
 UI_20150317_000230	{@st42}Ranking semanal{/}
-UI_20150317_000231	{@st56} rank {/}
+UI_20150317_000231	{@st56}Rank {/}
 UI_20150317_000232	{@st56}Pontos{/}
 UI_20150317_000233	{@st56}Classe{/}
-UI_20150317_000234	{@st56} Nome {/}
+UI_20150317_000234	{@st56}Nome {/}
 UI_20150317_000235	Página anterior
 UI_20150317_000236	Próxima página
 UI_20150317_000237	{@st42}Pesquisar ID{/}
@@ -258,7 +258,7 @@ UI_20150317_000257	Teleportar {@st59b} {nl} {@st59s} - Sistema que pode teleport
 UI_20150317_000258	{@st41}Localização atual : %s{/}
 UI_20150317_000259	{@st43}{s22}Teleportar{/}
 UI_20150317_000260	{@st41b}Você deseja se teleportar para esse local?{/}
-UI_20150317_000261	What about Saul ray
+UI_20150317_000261	What about Siauliai
 UI_20150317_000262	Moedas utilizadas : 0
 UI_20150317_000263	Introdução
 UI_20150317_000264	{@st43}Inventário{/}
@@ -279,13 +279,13 @@ UI_20150317_000278	{@st59}Bracelete 2 {/}
 UI_20150317_000279	{@st59}Braçadeira{/}
 UI_20150317_000280	{@st59}Procurar com o nome inserido {/}
 UI_20150317_000281	Peso
-UI_20150317_000282	
-UI_20150317_000283	{@st59}Fechar UI de reparação de itens{/}
+UI_20150317_000282	{memo X}{@st43}Buffar Equipamento{/}
+UI_20150317_000283	{@st59}Fechar Janela de Reparo{/}
 UI_20150317_000284	{@st42}Disponível para Buff
 UI_20150317_000285	{@st42}Consumir{/}
 UI_20150317_000286	{@st42}Correr
 UI_20150317_000287	{@st42}Selecionar Item{/}
-UI_20150317_000288	Anel 1 {@st59} {/}
+UI_20150317_000288	{@st59}Anel 1{/}
 UI_20150317_000289	{@st43}Criação de item{/}
 UI_20150317_000290	{@st42b} Ver apenas aqueles com materiais suficientes {/}
 UI_20150317_000291	{@st59}Fechar janela de criação de item {/}
@@ -293,17 +293,17 @@ UI_20150317_000292	{@st43}{s22}Dividir item
 UI_20150317_000293	{@st59}Insira a quantidade{/}
 UI_20150317_000294	Barra de HP do monstro
 UI_20150317_000295	{@st44}Conjunto de item adquirido{/}
-UI_20150317_000296	Teclado Guerreiro
-UI_20150317_000297	Kiel
-UI_20150317_000298	99 minutos 99 segundos
+UI_20150317_000296	Guerreiro do Teclado
+UI_20150317_000297	Mortes
+UI_20150317_000298	99 minutos e 99 segundos
 UI_20150317_000299	38000 pontos
 UI_20150317_000300	Poção de Velocidade aprimorada
 UI_20150317_000301	{@st41}OK {/}
-UI_20150317_000302	{@st59b} Registro de Aventuras {nl}{@st59s}- O seu progresso no jogo é registrado no Registro de Aventuras {nl} - Consiga informações com itens, monstros, forjando, explorando o mapa e com progresso no jogo {nl}    Índice de Aventuras : Conjunto de todos os índices {nl}    Personagem : 5 pontos por level e level de classe {nl}    Item : Equipamento: Level X 10 pontos, Livro : 10 pontos, Outros : 1 ponto {nl}    Monstros : 10 pontos por monstro (Chefes: 50 pontos) {nl}    Mapa : 1 ponto a cada 10% descoberto {nl}    Quests: 1 ponto por quest {nl}    Conqusitas: Varia por conquista {nl}    Criação : 10 pontos {nl}    Coleção : Deck 5 pontos, 45 points quando completo {nl} - Receba recompensas do NPC na cidade dependendo do seu Índice de Aventuras {/}
+UI_20150317_000302	{@st59b} Registro de Aventuras {nl}{@st59s}- O seu progresso no jogo é registrado no Registro de Aventuras {nl} - Consiga informações como itens, monstros, criações, explorando os mapas e com progresso no jogo {nl}    Índice de Aventuras : Conjunto de todos os índices {nl}    Personagem : 5 pontos por level e level de classe {nl}    Item : Equipamento: Level X 10 pontos, Livro : 10 pontos, Outros : 1 ponto {nl}    Monstros : 10 pontos por monstro (Chefes: 50 pontos) {nl}    Mapa : 1 ponto a cada 10% descoberto {nl}    Quests: 1 ponto por quest {nl}    Conqusitas: Varia por conquista {nl}    Criação : 10 pontos {nl}    Coleção : Deck 5 pontos, 45 points quando completo {nl} - Receba recompensas do NPC na cidade dependendo do seu Índice de Aventuras {/}
 UI_20150317_000303	{@sti7}{s22}{ds}Conquistas{/}
-UI_20150317_000304	{@st42b}{#22FF22} Bom 10% / %s Points{/}
-UI_20150317_000305	{@st42b} Mediano / %s Points {/}
-UI_20150317_000306	1º / %s Points
+UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s Pontos{/}
+UI_20150317_000305	{@st42b} Média / %s Pontos {/}
+UI_20150317_000306	1º / %s Pontos
 UI_20150317_000307	Rank %s
 UI_20150317_000308	%s Pontos
 UI_20150317_000309	Profissão
@@ -326,7 +326,7 @@ UI_20150317_000325	Poder Mágico
 UI_20150317_000326	Defesa
 UI_20150317_000327	Reistência Mágica
 UI_20150317_000328	Taxa de crítico
-UI_20150317_000329	{@st43}Encaixes{/}
+UI_20150317_000329	{@st43}Soquete{/}
 UI_20150317_000330	{@st59}Fehcar o gerenciador de encaixes{/}
 UI_20150317_000331	Por favor insira seus itens
 UI_20150317_000332	Potencial
